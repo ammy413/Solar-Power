@@ -5,7 +5,7 @@ clc;
 clear all;
 close all;
 
-addpath('.\数据记录');
+addpath('D:\研究生阶段\Solar-Power\数据记录');
 
 
 a=xlsread('记录表单-未加密版.xlsx','预测试-仪表-day1','G5:G9')
